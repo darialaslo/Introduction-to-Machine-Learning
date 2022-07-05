@@ -1,7 +1,6 @@
 # Introduction-to-Machine-Learning
 
-
-	The course introduces the foundations of learning and making predictions based on data.
+The course introduces the foundations of learning and making predictions based on data.
   
   
   **Objective**
